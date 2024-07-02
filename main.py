@@ -10,7 +10,8 @@ def main():
     else:
         duplication = 2
    
-    print duplication
+    print (f'the duplication is: {duplication}')
+    print
 
     ########################################
     # Do not delete the return statement
